@@ -25,21 +25,6 @@
   <ItemGroup>
     <Content Include=".gitignore" />
     <Content Include="chart_data\005930.csv" />
-    <Content Include="logs\005930\005930_20191126171414.log" />
-    <Content Include="logs\005930\005930_20191126172445.log" />
-    <Content Include="logs\005930\005930_20191126175216.log" />
-    <Content Include="logs\005930\005930_20191126180151.log" />
-    <Content Include="logs\005930\005930_20191127095716.log" />
-    <Content Include="logs\005930\005930_20191127101919.log" />
-    <Content Include="logs\005930\005930_20191127142941.log" />
-    <Content Include="logs\005930\005930_20191127143145.log" />
-    <Content Include="logs\005930\005930_20191127151705.log" />
-    <Content Include="logs\005930\005930_20191127152721.log" />
-    <Content Include="logs\005930\005930_20191127153025.log" />
-    <Content Include="logs\005930\005930_20191127153200.log" />
-    <Content Include="logs\005930\005930_20191127153609.log" />
-    <Content Include="logs\005930\005930_20191127154813.log" />
-    <Content Include="logs\005930\005930_20191127155035.log" />
     <Content Include="requirements.txt" />
   </ItemGroup>
   <ItemGroup>
