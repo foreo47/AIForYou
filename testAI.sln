@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29503.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "testAI", "testAI\testAI.pyproj", "{379E4EC5-EEA1-4E77-AA01-6A20AA577813}"
 EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "StockAI", "..\StockAI\StockAI.pyproj", "{D7A8F50F-A48D-4F59-8DEA-DF72E70823D7}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "StockAI", "StockAI\StockAI.pyproj", "{8504B3D0-7A28-47AD-864A-1E8535B95A4C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +15,8 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{379E4EC5-EEA1-4E77-AA01-6A20AA577813}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{379E4EC5-EEA1-4E77-AA01-6A20AA577813}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D7A8F50F-A48D-4F59-8DEA-DF72E70823D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D7A8F50F-A48D-4F59-8DEA-DF72E70823D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8504B3D0-7A28-47AD-864A-1E8535B95A4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8504B3D0-7A28-47AD-864A-1E8535B95A4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
