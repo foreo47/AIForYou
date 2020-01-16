@@ -7,6 +7,10 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "testAI", "testAI\testAI.pyp
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "StockAI", "StockAI\StockAI.pyproj", "{8504B3D0-7A28-47AD-864A-1E8535B95A4C}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Contact", "Contact\Contact.pyproj", "{D4027D7A-E69D-40B2-975B-E9CC3EF1F3B7}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RealEstate", "RealEstate\RealEstate.pyproj", "{0012D1E9-1B43-4545-A8C7-818913C46E92}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +21,10 @@ Global
 		{379E4EC5-EEA1-4E77-AA01-6A20AA577813}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8504B3D0-7A28-47AD-864A-1E8535B95A4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{8504B3D0-7A28-47AD-864A-1E8535B95A4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4027D7A-E69D-40B2-975B-E9CC3EF1F3B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4027D7A-E69D-40B2-975B-E9CC3EF1F3B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0012D1E9-1B43-4545-A8C7-818913C46E92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0012D1E9-1B43-4545-A8C7-818913C46E92}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
